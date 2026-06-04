@@ -1,0 +1,36 @@
+{
+    "menu": [
+      {
+        "title": "Courses",
+        "submenus": [
+          {
+            "title": "Advanced Course Filter",
+            "links": [
+              { "name": "Courses", "url": "courses.html" },
+              { "name": "Courses Search Filter", "url": "courses-filter-search.html" }
+            ]
+          },
+          {
+            "title": "Courses Grid",
+            "links": [
+              { "name": "Courses Grid", "url": "courses-grid.html" },
+              { "name": "Courses Grid Two", "url": "courses-grid-two.html" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pages",
+        "submenus": [
+          {
+            "title": "Page Layout 1",
+            "links": [
+              { "name": "Contact Us", "url": "contact.html" },
+              { "name": "About Online Course", "url": "about-online-course.html" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

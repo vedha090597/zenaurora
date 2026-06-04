@@ -1,0 +1,40 @@
+# Git
+.git
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Node (only if you use npm later)
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# ZIP files
+*.zip
+
+# Cache
+.cache/
+
+# PDFs not needed for deployment
+*.pdf
+
+# Large media backups
+backup/
+downloads/
