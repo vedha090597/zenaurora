@@ -2,6 +2,7 @@
     "name": "zenaurora",
     "compatibility_date": "2026-06-04",
     "assets": {
-        "directory": "."
+        "directory": ".",
+        "binding": "ASSETS"
     }
 }

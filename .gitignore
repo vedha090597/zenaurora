@@ -1,5 +1,6 @@
 # Git
-.git
+.git/
+.git/**
 
 # OS files
 .DS_Store
